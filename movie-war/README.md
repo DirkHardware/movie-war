@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Title
 
-Welcome to Ourpg 
+Welcome to Movie War!
 
 ## Motivation
 My classmates and I love movies. And we love arguing over them even more. When it came time to dream up a project, we thought that we could replicate that dynamics using the rules to the classic card game "war", but with IMDb scores, since unlike Metracritic an Rotten Tomatoes, IMDb scores are user derived and as such, are a better reflection of popular opinion. 
